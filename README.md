@@ -1,2 +1,0 @@
-# PyLEGOTank
-LEGO Tank bot

@@ -1,5 +1,4 @@
 # PyLEGOtank
 LEGO Tank bot
-Learning howing to program the Mindstorms EV3 using Python and practicing Git and Github skills
-
-Making a meaningless change
+GOAL 1. Learning how to program the Mindstorms EV3 using Python
+GOAL 2. Practicing Git and Github skills in the commmand line on a less invovled project

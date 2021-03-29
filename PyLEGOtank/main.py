@@ -24,8 +24,8 @@ ev3 = EV3Brick()
 # Configure 2 motors on Ports B and C.  Set the motor directions to
 # counterclockwise, so that positive speed values make the robot move
 # forward.  These will be the left and right motors of the Tank Bot.
-left_motor = Motor(Port.B, Direction.COUNTERCLOCKWISE)
-right_motor = Motor(Port.C, Direction.COUNTERCLOCKWISE)
+left_motor = Motor(Port.B, Direction.CLOCKWISE)
+right_motor = Motor(Port.C, Direction.CLOCKWISE)
 
 # The wheel diameter of the Tank Bot is about 54 mm.
 WHEEL_DIAMETER = 54
